@@ -1,0 +1,30 @@
+_repo: Over-the-Rocky-Mountains-to-Alaska_22871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoddard, Charles Warren
+    alias: Stoddard, C. W. (Charles Warren)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '1170'
+    url: http://www.gutenberg.org/2009/agents/1170
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Warren_Stoddard
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Alaska -- Description and travel'
+title: Over the Rocky Mountains to Alaska
+url: http://www.gutenberg.org/ebooks/22871
